@@ -35,3 +35,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
   - 使用`npm install --save swiper`或`cnpm i --save swiper`进行下载
 + 下载`axios`实现异步加载
   - 使用 `npm install --save axios`或`cnpm i --save axios`进行下载
++ 下载`Vuex`管理状态
+  - 使用`npm install --save vuex`或`cnpm i --save vuex`
